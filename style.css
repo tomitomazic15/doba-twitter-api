@@ -1,0 +1,7 @@
+.green-bg p {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
+}
