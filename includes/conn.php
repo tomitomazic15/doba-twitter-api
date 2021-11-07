@@ -26,7 +26,7 @@ else {
 }
 
 //twitter user's tweets
-$getfield = "?screen_name=$twitter_user&count=6&tweet_mode=extended";
+$getfield = "?screen_name=$twitter_user&count=8&tweet_mode=extended";
  
 $twitter = new TwitterAPIExchange($settings);
 
